@@ -8,3 +8,36 @@
 	path = cmake/external/emsdk
 	url = https://github.com/emscripten-core/emsdk.git
 	branch = 3.1.59
+[submodule "deps/eigen"]
+	path = deps/eigen
+	url = https://gitlab.com/libeigen/eigen.git
+[submodule "deps/SafeInt"]
+	path = deps/SafeInt
+	url = https://github.com/dcleblanc/SafeInt
+[submodule "deps/mp11"]
+	path = deps/mp11
+	url = https://github.com/boostorg/mp11
+[submodule "deps/gsl"]
+	path = deps/gsl
+	url = https://github.com/microsoft/GSL
+[submodule "deps/date"]
+	path = deps/date
+	url = https://github.com/HowardHinnant/date
+[submodule "deps/nsync"]
+	path = deps/nsync
+	url = https://github.com/google/nsync
+[submodule "deps/protobuf"]
+	path = deps/protobuf
+	url = https://github.com/protocolbuffers/protobuf
+[submodule "deps/flatbuffers"]
+	path = deps/flatbuffers
+	url = https://github.com/google/flatbuffers
+[submodule "deps/abseil-cpp"]
+	path = deps/abseil-cpp
+	url = https://github.com/abseil/abseil-cpp
+[submodule "deps/re2"]
+	path = deps/re2
+	url = https://github.com/google/re2
+[submodule "deps/json"]
+	path = deps/json
+	url = https://github.com/nlohmann/json
